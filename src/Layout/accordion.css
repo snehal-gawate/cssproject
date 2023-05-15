@@ -1,0 +1,20 @@
+.accordion {
+  width: 100%;
+}
+
+.accordion-header {
+  background-color: "white";
+  color: hsl(0, 23%, 6%);
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+}
+
+.accordion-content {
+  background-color: "white";
+  padding: 18px;
+  margin-top: -5vh;
+}
